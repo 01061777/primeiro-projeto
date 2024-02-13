@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"lojas super "</title>
+</head>
+<body>
+<h1>cadastro de clientes</h1><p></p>
+<p>incluir ass informaçoes do cliente abaixo</p>
+<Fonts>"nomes do clientes"</Fonts><P></P>
+<input type ="id="nome ></input><p></p>
+<fonts>"endereço do clientes"</fonts><p></p>
+<input type="text"id="Endereço"></input><p></p>
+<fonts>idade do clientes </fonts><P></P>
+<input type="text"id ="idade"></input><P></P>
+<fonts> sexo do clientes</fonts><P></P>
+<input type="radio"nome="sexo"id="masculino"checked="checked"><input><p></p>
+<input type="radio"nome="sexo"id="feminino"><input><p></p>
+<input type="button"nome="botao-ok"value="cadastrar"id="botao-cadastrar">
+</body>
+</html>
